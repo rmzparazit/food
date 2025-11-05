@@ -1,1 +1,144 @@
-1
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-11-05 12:01">
+  <shop>
+    <name>WILL FOOD</name>
+    <company>WILL FOOD Самара</company>
+    <url>https://willfood.pro/</url>
+    <platform>Доставка здорового питания</platform>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Программа 900 ккал</category>
+      <category id="2">Программа 1200 ккал</category>
+      <category id="3">Программа 1500 ккал</category>
+      <category id="4">Программа 1800 ккал</category>
+      <category id="5">Программа 2500 ккал</category>
+      <category id="6">Программа 3200 ккал</category>
+      <category id="7">Программа Detox</category>
+    </categories>
+    <offers>
+      <offer id="WF_01_1D" available="true">
+        <name>Программа 900 ккал на 1д</name>
+        <vendorCode>WF_01_1D</vendorCode>
+        <url>https://willfood.pro/#calculator</url>
+        <price>1190</price>
+        <oldprice>1249</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://willfood.pro/assets/img/programmes/900.webp</picture>
+        <sales_notes>Доставка здорового питания</sales_notes>
+      </offer>
+      <offer id="WF_02_1D" available="true">
+        <name>Программа 1200 ккал на 1д</name>
+        <vendorCode>WF_02_1D</vendorCode>
+        <url>https://willfood.pro/#calculator</url>
+        <price>1440</price>
+        <oldprice>1512</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://willfood.pro/assets/img/programmes/1200.webp</picture>
+        <sales_notes>Доставка здорового питания</sales_notes>
+      </offer>
+      <offer id="WF_03_1D" available="true">
+        <name>Программа 1500 ккал на 1д</name>
+        <vendorCode>WF_03_1D</vendorCode>
+        <url>https://willfood.pro/#calculator</url>
+        <price>1600</price>
+        <oldprice>1680</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://willfood.pro/assets/img/programmes/1500.webp</picture>
+        <sales_notes>Доставка здорового питания</sales_notes>
+      </offer>
+      <offer id="WF_04_1D" available="true">
+        <name>Программа 1800 ккал на 1д</name>
+        <vendorCode>WF_04_1D</vendorCode>
+        <url>https://willfood.pro/#calculator</url>
+        <price>1750</price>
+        <oldprice>1837</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://willfood.pro/assets/img/programmes/1800.webp</picture>
+        <sales_notes>Доставка здорового питания</sales_notes>
+      </offer>
+      <offer id="WF_05_1D" available="true">
+        <name>Программа 2500 ккал на 1д</name>
+        <vendorCode>WF_05_1D</vendorCode>
+        <url>https://willfood.pro/#calculator</url>
+        <price>1950</price>
+        <oldprice>2047</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://willfood.pro/assets/img/programmes/2500.webp</picture>
+        <sales_notes>Доставка здорового питания</sales_notes>
+      </offer>
+      <offer id="WF_06_1D" available="true">
+        <name>Программа 3200 ккал на 1д</name>
+        <vendorCode>WF_06_1D</vendorCode>
+        <url>https://willfood.pro/#calculator</url>
+        <price>2250</price>
+        <oldprice>2362</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://willfood.pro/assets/img/programmes/2500.webp</picture>
+        <sales_notes>Доставка здорового питания</sales_notes>
+      </offer>
+      <offer id="WF_07_2D" available="true">
+        <name>Программа Detox на 2д</name>
+        <vendorCode>WF_07_2D</vendorCode>
+        <url>https://willfood.pro/#calculator</url>
+        <price>3700</price>
+        <oldprice>3885</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://willfood.pro/assets/img/programmes/detox.webp</picture>
+        <sales_notes>Доставка здорового питания</sales_notes>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="1">
+        <name>Программа 900 ккал</name>
+        <url>https://willfood.pro/#calculator</url>
+        <description>Программа 900 ккал</description>
+        <picture>https://willfood.pro/assets/img/programmes/900.webp</picture>
+      </collection>
+      <collection id="2">
+        <name>Программа 1200 ккал</name>
+        <url>https://willfood.pro/#calculator</url>
+        <description>Программа 1200 ккал</description>
+        <picture>https://willfood.pro/assets/img/programmes/1200.webp</picture>
+      </collection>
+      <collection id="3">
+        <name>Программа 1500 ккал</name>
+        <url>https://willfood.pro/#calculator</url>
+        <description>Программа 1500 ккал</description>
+        <picture>https://willfood.pro/assets/img/programmes/1500.webp</picture>
+      </collection>
+      <collection id="4">
+        <name>Программа 1800 ккал</name>
+        <url>https://willfood.pro/#calculator</url>
+        <description>Программа 1800 ккал</description>
+        <picture>https://willfood.pro/assets/img/programmes/1800.webp</picture>
+      </collection>
+      <collection id="5">
+        <name>Программа 2500 ккал</name>
+        <url>https://willfood.pro/#calculator</url>
+        <description>Программа 2500 ккал</description>
+        <picture>https://willfood.pro/assets/img/programmes/2500.webp</picture>
+      </collection>
+      <collection id="6">
+        <name>Программа 3200 ккал</name>
+        <url>https://willfood.pro/#calculator</url>
+        <description>Программа 3200 ккал</description>
+        <picture>https://willfood.pro/assets/img/programmes/2500.webp</picture>
+      </collection>
+      <collection id="7">
+        <name>Программа Detox</name>
+        <url>https://willfood.pro/#calculator</url>
+        <description>Программа Detox</description>
+        <picture>https://willfood.pro/assets/img/programmes/detox.webp</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
