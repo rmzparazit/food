@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-01-11 22:13">
+<yml_catalog date="2026-01-18 22:13">
   <shop>
     <name>WILL FOOD</name>
     <company>WILL FOOD Самара</company>
@@ -22,8 +22,8 @@
         <name>Программа 900 ккал на 1д</name>
         <vendorCode>WF_01_1D</vendorCode>
         <url>https://willfood.pro/#calculator</url>
-        <price>1190</price>
-        <oldprice>1249</oldprice>
+        <price>1290</price>
+        <oldprice>1354</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://willfood.pro/assets/img/programmes/900.webp</picture>
@@ -33,8 +33,8 @@
         <name>Программа 1200 ккал на 1д</name>
         <vendorCode>WF_02_1D</vendorCode>
         <url>https://willfood.pro/#calculator</url>
-        <price>1440</price>
-        <oldprice>1512</oldprice>
+        <price>1540</price>
+        <oldprice>1617</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://willfood.pro/assets/img/programmes/1200.webp</picture>
@@ -44,8 +44,8 @@
         <name>Программа 1500 ккал на 1д</name>
         <vendorCode>WF_03_1D</vendorCode>
         <url>https://willfood.pro/#calculator</url>
-        <price>1600</price>
-        <oldprice>1680</oldprice>
+        <price>1700</price>
+        <oldprice>1785</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://willfood.pro/assets/img/programmes/1500.webp</picture>
@@ -55,8 +55,8 @@
         <name>Программа 1800 ккал на 1д</name>
         <vendorCode>WF_04_1D</vendorCode>
         <url>https://willfood.pro/#calculator</url>
-        <price>1750</price>
-        <oldprice>1837</oldprice>
+        <price>1850</price>
+        <oldprice>1942</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
         <picture>https://willfood.pro/assets/img/programmes/1800.webp</picture>
@@ -66,8 +66,8 @@
         <name>Программа 2500 ккал на 1д</name>
         <vendorCode>WF_05_1D</vendorCode>
         <url>https://willfood.pro/#calculator</url>
-        <price>1950</price>
-        <oldprice>2047</oldprice>
+        <price>2050</price>
+        <oldprice>2152</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
         <picture>https://willfood.pro/assets/img/programmes/2500.webp</picture>
@@ -77,8 +77,8 @@
         <name>Программа 3200 ккал на 1д</name>
         <vendorCode>WF_06_1D</vendorCode>
         <url>https://willfood.pro/#calculator</url>
-        <price>2250</price>
-        <oldprice>2362</oldprice>
+        <price>2350</price>
+        <oldprice>2467</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
         <picture>https://willfood.pro/assets/img/programmes/2500.webp</picture>
@@ -88,8 +88,8 @@
         <name>Программа Detox на 2д</name>
         <vendorCode>WF_07_2D</vendorCode>
         <url>https://willfood.pro/#calculator</url>
-        <price>3700</price>
-        <oldprice>3885</oldprice>
+        <price>3900</price>
+        <oldprice>4095</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
         <picture>https://willfood.pro/assets/img/programmes/detox.webp</picture>
